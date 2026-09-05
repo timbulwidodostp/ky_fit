@@ -1,4 +1,18 @@
-D 'logtest': Tests significance of a predictor in logistic models Use logtest With STATA 19
+D 'ky_fit': Fitting mixture models of the Kapteyn-Ypma type to linked survey and administrative data Use ky_fit With STATA 19
 D
-F logtest.ado
-F logtest.sthlp
+F ky_estat.ado
+F ky_estat.sthlp
+F ky_fit.ado
+F ky_fit.sthlp
+F ky_ll_1.ado
+F ky_ll_2.ado
+F ky_ll_3.ado
+F ky_ll_4.ado
+F ky_ll_5.ado
+F ky_ll_6.ado
+F ky_ll_7.ado
+F ky_ll_8.ado
+F ky_p.ado
+F ky_sim.ado
+F ky_sim.sthlp
+F ky_star.ado
